@@ -1,0 +1,8 @@
+gunicorn
+Flask
+scikit-learn
+numpy
+joblib
+jinja2
+itsdangerous
+jinja2
